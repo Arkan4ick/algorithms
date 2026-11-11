@@ -89,6 +89,5 @@ def main():
 
     sys.stdout.write("\n".join(result))
 
-
 if __name__ == "__main__":
     main()
